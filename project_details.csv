@@ -1,4 +1,3 @@
 ﻿Repo Name,Config Repo URL,Type,Remote URL
 generate_anagram,git@github.com:dhruv-loyalty/generate_anagram_config.git,maven,https://github.com/dhruv-loyalty/generate_anagram_config
-test122,sdkjskdj,djjjf,sdkjskjdkjs
-test123,sdkjskdj,djjjf,sdkjskjdkjs
+generate_anagram_anagram,git@github.com:dhruv-loyalty/generate_anagram_config.git,gradle,https://github.com/dhruv-loyalty/generate_anagram_config
