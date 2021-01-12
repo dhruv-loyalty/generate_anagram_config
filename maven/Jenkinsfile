@@ -1,4 +1,4 @@
-template{
+pipeline{
 node{
     stage("Clone Repo"){
         Git.clone_repo()
